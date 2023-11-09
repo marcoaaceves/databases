@@ -1,0 +1,15 @@
+Dia,Clima,Temperatura,Humedad,Viento,¿Salir?
+1,Soleado,Calido,Alta,Debil,No
+2,Soleado,Calido,Alta,Fuerte,No
+3,Nublado,Calido,Alta,Debil,Si
+4,Lluvioso,Templado,Alta,Debil,Si
+5,Lluvioso,Frio,Normal,Debil,Si
+6,Lluvioso,Frio,Normal,Fuerte,No
+7,Nublado,Frio,Normal,Fuerte,Si
+8,Soleado,Templado,Alta,Debil,No
+9,Soleado,Frio,Normal,Debil,Si
+10,Lluvioso,Templado,Normal,Debil,Si
+11,Soleado,Templado,Normal,Fuerte,Si
+12,Nublado,Templado,Alta,Fuerte,Si
+13,Nublado,Calido,Normal,Debil,Si
+14,Lluvioso,Templado,Alta,Fuerte,No
